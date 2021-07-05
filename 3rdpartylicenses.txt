@@ -29,9 +29,6 @@ MIT
 @angular-ru/sdk
 MIT
 
-@angular-ru/tooltip
-MIT
-
 @angular/animations
 MIT
 
